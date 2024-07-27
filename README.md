@@ -6,7 +6,7 @@
 
 Web forms are the main point of interaction between the client and the web server. This project demonstrates how to utilize the Flask-WTF (WTForms) package to implement them in a powerful Flask web framework.
 
-### Course Summary
+### Summary
 
 At the core of building modern web applications is a thorough knowledge of web forms. This project is based on the course "Creating and Processing Web Forms with Flask 1," which covers the following key concepts:
 
